@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+      <class name="Framework.PracticeTestNG">
+        <test-method status="PASS" signature="connect()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="connect" is-config="true" duration-ms="16" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connect -->
+        <test-method status="PASS" signature="Login1()[pri:-300000000, instance:Framework.PracticeTestNG@1b604f19]" name="Login1" duration-ms="5" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+        <test-method status="PASS" signature="connect()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="connect" is-config="true" duration-ms="0" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connect -->
+        <test-method status="PASS" signature="Login2()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="Login2" is-config="true" duration-ms="0" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+        <test-method status="PASS" signature="Login3()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="Login3" is-config="true" duration-ms="0" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login3 -->
+        <test-method status="PASS" signature="Login8()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="Login8" is-config="true" duration-ms="1" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login8 -->
+        <test-method status="PASS" signature="Login5()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="Login5" is-config="true" duration-ms="0" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login5 -->
+        <test-method status="PASS" signature="connect()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="connect" is-config="true" duration-ms="0" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connect -->
+        <test-method status="PASS" signature="dbclose()[pri:0, instance:Framework.PracticeTestNG@1b604f19]" name="dbclose" is-config="true" duration-ms="0" started-at="2020-05-01T15:37:33Z" finished-at="2020-05-01T15:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbclose -->
+      </class> <!-- Framework.PracticeTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
